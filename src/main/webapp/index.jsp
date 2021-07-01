@@ -1,23 +1,48 @@
-<%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
+
+<!DOCTYPE html>
 <html>
 <head>
-<title>Hello world!</title>
+<title>Page Title</title>
 </head>
+<style>
+.container {
+  
+  width: 400px;
+  height:550px;
+  margin-left: 75px;
+margin-top:10px;
+}
+
+h1{
+font-size:35px;
+color: blue;
+    margin-top: -501px;
+    
+    width: 600px;
+}
+
+h2{
+color:red;
+}
+image{
+width:1000px;
+height:400px;
+}
+</style>
 <body>
+<div class="imgcontainer ">
+<img src="https://tenor.com/view/jai-hindh-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%9D%E0%A4%82%E0%A4%A1%E0%A4%BE-%E0%A4%9C%E0%A4%AF%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6-astronaut-gif-14974603" width="1300" height="550">
+<div class="container">
+<h1>AKHAND BHARAT</h1>
 
-<h1>Create a new person</h1>
-<mak:newForm type="general.Person" action="index.jsp">
-Name: <mak:input field="name" /><br/>
-Surname: <mak:input field="surname" />
-<mak:submit/>
-</mak:newForm>
+<br>
+<h2>Contact us:-</h2>
 
-<h1>List of persons</h1>
-<mak:list from="general.Person p">
-  <mak:value expr="p.name + ' ' + p.surname" /><br/>
-</mak:list>
+<h2>AKHAND BHARAT</h2>
+<h2>+91-8383917484</h2>
 
-<br />
-<a href="index.jspx">View source</a>
+</div>
+</div>
 </body>
 </html>
+
