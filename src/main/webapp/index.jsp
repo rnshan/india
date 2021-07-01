@@ -31,7 +31,7 @@ height:400px;
 </style>
 <body>
 <div class="imgcontainer ">
-<img src="https://tenor.com/view/jai-hindh-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%9D%E0%A4%82%E0%A4%A1%E0%A4%BE-%E0%A4%9C%E0%A4%AF%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6-astronaut-gif-14974603" width="1300" height="550">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fr%2Findia%2F1zdlgfW&psig=AOvVaw3i-88lYhv2K6tA6x_6mJzK&ust=1625213712290000&source=images&cd=vfe&ved=2ahUKEwjl5KeBt8HxAhWpl2MGHWHKD8cQjRx6BAgAEA8" width="1300" height="550">
 <div class="container">
 <h1>BHARAT MATA KI JAI</h1>
 
