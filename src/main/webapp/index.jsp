@@ -33,13 +33,13 @@ height:400px;
 <div class="imgcontainer ">
 <img src="https://tenor.com/view/jai-hindh-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%9D%E0%A4%82%E0%A4%A1%E0%A4%BE-%E0%A4%9C%E0%A4%AF%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6-astronaut-gif-14974603" width="1300" height="550">
 <div class="container">
-<h1>AKHAND BHARAT</h1>
+<h1>BHARAT MATA KI JAI</h1>
 
 <br>
 <h2>Contact us:-</h2>
 
 <h2>AKHAND BHARAT</h2>
-<h2>+91-8383917484</h2>
+<h2>JAI JAWAN</h2>
 
 </div>
 </div>
