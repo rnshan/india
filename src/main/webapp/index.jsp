@@ -36,7 +36,7 @@ height:400px;
 <h1>BHARAT MATA KI JAI</h1>
 
 <br>
-<h2>Contact us:-</h2>
+<h2>HAR HAR MAHADEV</h2>
 
 <h2>AKHAND BHARAT</h2>
 <h2>JAI JAWAN</h2>
