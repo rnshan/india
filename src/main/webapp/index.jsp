@@ -25,7 +25,7 @@ h2{
 color:red;
 }
 image{
-width:1000px;
+width:100px;
 height:400px;
 }
 </style>
